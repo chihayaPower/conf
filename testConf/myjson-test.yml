@@ -1,5 +1,5 @@
 json2json:
-    converter: {"add_field":[{"[aa]":1111},{"[bb]":22222},{"[cc]":"333333"}], "remove_field":["[zz]", "[yy]"], "mutate":{}}
+    converter: "{\"add_field\":[{\"[aa]\":1111},{\"[bb]\":22222},{\"[cc]\":"333333\"}], \"remove_field\":[\"[zz]\", \"[yy]\"], \"mutate\":{}}"
     
     
     
